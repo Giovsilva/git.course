@@ -1,1 +1,1 @@
-#git-curse
+#git-course
